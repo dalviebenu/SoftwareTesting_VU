@@ -4,7 +4,7 @@
 int main()
 {
     DigitalOut redLed(PTB2);
-    DigitalIn button(PTB5);
+    DigitalIn button(PTB3);
      
      bool isPressed = false;
 
