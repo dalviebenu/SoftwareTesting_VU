@@ -44,6 +44,8 @@ class FreedomController {
             while (true)
             {
                 // Smarthome actions:
+
+                
                     // UC_Too_Warm // DONE
                     // When it’s above 30 degrees celsius (inside-sensor), make sure the heater. 
                     // The red light of the freedom controller will turn red if it is above 30 degrees.
